@@ -15,7 +15,8 @@ int main()
 
     printf("Hello World\n");
     printf("Nula: %d\n",g_GammaCoefMode[0]);
-    printf("Nula: %d\n",g_GammaCoefMode[1]);
-
+    printf("Jedna: %d\n",g_GammaCoefMode[1]);
+	printf("Nula: %d\n",g_GammaCoefMode[0]);
+    printf("Jedna: %d\n",g_GammaCoefMode[1]);
     return 0;
 }
